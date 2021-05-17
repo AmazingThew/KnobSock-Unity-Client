@@ -1,6 +1,6 @@
 {
 	"name": "nu.thew.knobclient",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"displayName": "Knob Client",
 	"description": "Unity client for Knob Sock MIDI server: https://github.com/AmazingThew/KnobSock",
 	"unity": "2020.1"
